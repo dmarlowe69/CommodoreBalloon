@@ -1,0 +1,5 @@
+call build SPRITEMAIN
+pause
+
+
+
